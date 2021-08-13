@@ -992,7 +992,7 @@ typedef void (*GLADpostcallback)(void *ret, const char *name, GLADapiproc apipro
 #define GL_ZERO 0
 
 
-#include <KHR/khrplatform.h>
+#include "KHR/khrplatform.h" // Used to be: #include <KHR/khrplatform.h>
 
 typedef unsigned int GLenum;
 
