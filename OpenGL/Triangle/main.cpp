@@ -1,6 +1,6 @@
 /*
 *	This code is part of The Cherno's OpenGL series on YouTube: https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2
-*	It is an excelant source of information fro anyone looking to get into OpenGL.
+*	It is an excelant source of information for anyone looking to get into OpenGL.
 */ 
 
 #include <iostream>
